@@ -1,8 +1,6 @@
 accounts.spotify.com
-akamaized.net
 api.spotify.com
 audio-fa.scdn.co
-edgesuite.net
 i.scdn.co
 open.spotify.com
 scdn.co

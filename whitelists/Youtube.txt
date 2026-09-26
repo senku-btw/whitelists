@@ -7,7 +7,6 @@ i1.ytimg.com
 img.youtube.com
 manifest.googlevideo.com
 oauthaccountmanager.googleapis.com
-redirector.googlevideo.com
 s.ytimg.com
 tv.youtube.com
 www.googleapis.com
