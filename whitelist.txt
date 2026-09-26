@@ -14,6 +14,12 @@ easylist.to
 fastly.net
 getblockify.com
 giphy.com
+github.com
+github.io
+githubusercontent.com
+gitlab.com
+gitlab.io
+gitter.im
 gravatar.com
 gstatic.com
 hosts-file.net
@@ -37,6 +43,7 @@ placeholdit.imgix.net
 podcast.darknetdiaries.com
 pscrb.fm
 ransomwaretracker.abuse.ch
+raw.githubusercontent.com
 res.cloudinary.com
 road.adblock.ro
 s1.symcb.com
@@ -55,13 +62,3 @@ v.firebog.net
 voe.sx
 winhelp2002.mvps.org
 zeustracker.abuse.ch
-
-github.com
-github.io
-githubusercontent.com
-gitlab.com
-gitlab.io
-gitter.im
-raw.githubusercontent.com
-
-
