@@ -4,6 +4,7 @@ amazonaws.com
 api.fast.com
 blocklist.kowabit.de
 cdn.cloudflare.net
+cdn.jsdelivr.net
 cdnjs.cloudflare.com
 cloudflare.com
 cloudfront.net
